@@ -1,8 +1,8 @@
-**Projekt: Zpracování obrazů a testování klasifikace**  
+##  **Projekt: Zpracování obrazů a testování klasifikace**  
 
 Tento projekt se zaměřuje na předzpracování obrazů, segmentaci a následné testování klasifikace pomocí neuronových sítí. Byly implementovány různé metody odstranění šumu, segmentace a klasifikace, přičemž výsledky byly vyhodnoceny pomocí standardních metrik.  
 
-**Struktura projektu**  
+##  **Struktura projektu**  
 
 📂 **preprocessing** - Implementace metod odstranění šumu  
 - `gauss_filter.py` - Aplikace Gaussova filtru pro odstranění šumu  
