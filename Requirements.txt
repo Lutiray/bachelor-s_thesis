@@ -1,0 +1,11 @@
+numpy==1.24.3          # Numerical computations
+opencv-python==4.7.0.72 # Image processing
+tensorflow==2.12.0      # Deep learning framework
+keras==2.12.0           # High-level neural network API
+scikit-image==0.20.0    # Image processing utilities
+scikit-learn==1.2.2     # Machine learning tools
+matplotlib==3.7.1       # Visualization
+tqdm==4.65.0            # Progress bar for loops
+pandas==1.5.3           # Data handling and analysis
+
+#To install all this libraries run the comand pip install -r requirements.txt
