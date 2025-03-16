@@ -26,7 +26,7 @@ Tento projekt se zaměřuje na předzpracování obrazů, segmentaci a následn�
 📂 **Model_NN** - Trénování neuronových sítí  
 
 Trénovaný model neuronové sítě ResNet50 je dostupný ke stažení na Google Drive:  
-🔗 **[Odkaz na model]([https://drive.google.com/your_models_link](https://drive.google.com/drive/folders/1pXBWklBxM1nPzNuzwh6qU9bLhBW55nAo?usp=drive_link)**  
+🔗 **[Odkaz na model](https://drive.google.com/drive/folders/1pXBWklBxM1nPzNuzwh6qU9bLhBW55nAo?usp=drive_link)**  
 
 Stáhněte soubory a umístěte je do složky `Model_NN` před spuštěním testů klasifikace nebo segmentace.  
 
