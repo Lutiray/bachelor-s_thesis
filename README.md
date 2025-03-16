@@ -24,6 +24,12 @@ Tento projekt se zaměřuje na předzpracování obrazů, segmentaci a následn�
 - `image_saver.py` - Úložení výsledků  
 
 📂 **Model_NN** - Trénování neuronových sítí  
+
+Trénovaný model neuronové sítě ResNet50 je dostupný ke stažení na Google Drive:  
+🔗 **[Odkaz na model]([https://drive.google.com/your_models_link](https://drive.google.com/drive/folders/1pXBWklBxM1nPzNuzwh6qU9bLhBW55nAo?usp=drive_link))**  
+
+Stáhněte soubory a umístěte je do složky `Model_NN` před spuštěním testů klasifikace nebo segmentace.  
+
 - Obsahuje čtyři skripty pro trénování různých modelů:
 - `CNN_training_gausNois.py` - Trénování neuronové sítě k eliminaci Gaussova šumu
 - `CNN_training_saltPepper.py` - Trénování neuronové sítě k eliminaci mediánového šumu
@@ -31,6 +37,11 @@ Tento projekt se zaměřuje na předzpracování obrazů, segmentaci a následn�
 - `unet_training.py` - Trénování neuronové sítě U-net pro segmentaci
 
 **🗂 Popis složky `Datasets`**  
+
+Složka Datasets obsahuje kompletní dataset a modely potřebné k reprodukci experimentů v rámci této práce. Z důvodu velké velikosti dat je celý dataset dostupný ke stažení na Google Drive:  
+🔗 **[Odkaz na dataset](https://drive.google.com/drive/folders/1pXBWklBxM1nPzNuzwh6qU9bLhBW55nAo?usp=drive_link)**  
+
+Po stažení datasetu je nutné jej rozbalit a umístit do kořenového adresáře projektu.  
 
 Složka `Datasets` obsahuje všechny soubory potřebné pro experimenty s předzpracováním obrazů, segmentací a klasifikací. Data jsou organizována do několika podadresářů podle jejich účelu:  
 
